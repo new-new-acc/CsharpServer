@@ -1,0 +1,7 @@
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\obj\Debug\ConsoleServer1.csproj.AssemblyReference.cache
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\obj\Debug\ConsoleServer1.csproj.CoreCompileInputs.cache
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\bin\Debug\ConsoleServer1.exe.config
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\bin\Debug\ConsoleServer1.exe
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\bin\Debug\ConsoleServer1.pdb
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\obj\Debug\ConsoleServer1.exe
+C:\Users\hanyon\source\repos\ConsoleServer1\ConsoleServer1\obj\Debug\ConsoleServer1.pdb
